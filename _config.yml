@@ -1,3 +1,4 @@
 title: Мой блог
 description: Статьи о программировании
 theme: minima
+markdown: kramdown
